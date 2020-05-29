@@ -5,5 +5,5 @@
 !!! docker build -t web-app .
 
 #Run your image
-!!! docker run -p 49160:8080 -d web-app
+!!! docker run -p 8085:8080 -d web-app
 
